@@ -1,4 +1,4 @@
-# Simple Addition Package
+# NPM Math Package
 
 This is a simple npm package that exports a single function called add, which takes two arguments a and b and returns their sum. The function can be used in any Node.js project by including it as a dependency and importing it in the project code. The package provides a convenient way to perform basic arithmetic operations, making it a useful tool for developers working on various projects.
 
